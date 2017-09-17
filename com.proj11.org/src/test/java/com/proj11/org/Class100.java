@@ -10,6 +10,8 @@ public class Class100 {
 		
 		System.out.println("Dell");
 		System.out.println("HP");
+		
+		System.out.println("Computer");
 	}
 
 }
