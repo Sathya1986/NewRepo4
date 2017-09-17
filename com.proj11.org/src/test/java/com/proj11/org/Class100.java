@@ -12,6 +12,6 @@ public class Class100 {
 		System.out.println("HP");
 		
 		System.out.println("Computer");
-	}
-
-}
+		System.out.println("Household");
+		System.out.println("Shoes");
+}}
